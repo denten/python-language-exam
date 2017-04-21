@@ -1,8 +1,5 @@
 # Proposed Graduate Programming Language Exam Guidelines
 
-Please use the “comments” tool (right click > comment) to leave your
-suggestions or email dt2406.
-
 Knowledge of computer languages can both reveal new literary-cultural
 formations and serve as a powerful tool for the study of such formations.
 However, it should not be viewed as a substitute for foreign language
